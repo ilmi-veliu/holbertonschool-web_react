@@ -7,3 +7,12 @@ var teacher3 = {
     contract: false, // propriété en plus
 };
 console.log(teacher3);
+// Exemple d’utilisation
+var director1 = {
+    firstName: 'John',
+    lastName: 'Doe',
+    location: 'London',
+    fullTimeEmployee: true,
+    numberOfReports: 17,
+};
+console.log(director1);
